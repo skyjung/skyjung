@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @skyjung
 - 👀 I’m interested in ...
-  - Web (backend) Development
+  - Backend Development
 - 💞️ I’m looking to collaborate on ...
-  - Any cool projects/hackathons/coding challenges/etc. (or maybe even a start-up 0-0)
+  - Any cool projects/hackathons/coding challenges/etc. (or maybe even a start-up 0_0)
 - 📫 How to reach me ...
   - skyjung@college.harvard.edu
 
